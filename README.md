@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+-In  this repo  
+server folder for Backend nodejs 
+src for react js 
+
 ### `npm start`
 
 Runs the app in the development mode.\
