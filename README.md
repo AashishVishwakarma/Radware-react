@@ -1,22 +1,20 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-Run      npm i for setup the project 
-### `npm i`
-
 -In  this repo  
 server folder for Backend nodejs 
 src for react js 
 
+In the project directory, you can run:
+Run      npm i for setup the project both frontend and backend 
+
+### `npm i`
+1) in Radware-react folder
+2) also in Server folder
+
+
 ### `npm run start`
-- for Frontend in Radware-react folder
+- to run Frontend in Radware-react folder
 
 ### `node index.js`
-- for Backend in server folder  
+- to run Backend in server folder  
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
