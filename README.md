@@ -12,10 +12,11 @@ Run      npm i for setup the project
 server folder for Backend nodejs 
 src for react js 
 
-### `npm start`
+### `npm run start`
+- for Frontend in Radware-react folder
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### `node index.js`
+- for Backend in server folder  
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
